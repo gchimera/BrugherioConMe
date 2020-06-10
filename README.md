@@ -1,4 +1,4 @@
-<a href="https://www.ariestech.it/portfolio-software-house-milano/portfolio-app-iphone/app-marketing-territoriale AriesTech"> <img border="0" alt="" src="https://img.shields.io/badge/Cliente-AriesTech-yellowgreen"> </a> <img src="https://img.shields.io/badge/IOS-<%208.0-orange" > <img src="https://img.shields.io/badge/-Obj%20C-blue" > 
+<a href="https://www.ariestech.it"> <img border="0" alt="" src="https://img.shields.io/badge/Cliente-AriesTech-yellowgreen"> </a> <img src="https://img.shields.io/badge/IOS-<%208.0-orange" > <img src="https://img.shields.io/badge/-Obj%20C-blue" > 
 
 
 **BrugherioConMe** è un'applicazione per smartphone e tablet che combina non solo idealmente, ma di fatto, due aspetti fondamentali della vita della città: il pubblico e il privato.  L'applicazione "Brugherio conme" è stata ideata da **"Grafiche Parole Nuove" (GPN)**, un'azienda nata 37 anni fa proprio a Brugherio, dove ancora ha sede e stabilimento.
